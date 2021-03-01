@@ -5,5 +5,10 @@ def factorial(n):
 
 
 
-print(factorial(3))
-print( factorial(4))
+print(factorial(8))
+print( factorial(54))
+
+num = int(input("enter number to calculate factorial"))
+
+print (factorial(num))
+
