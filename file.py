@@ -6,7 +6,7 @@ def factorial(n):
 
 
 print(factorial(8))
-print( factorial(54))
+print( factorial(10))
 
 num = int(input("enter number to calculate factorial"))
 
